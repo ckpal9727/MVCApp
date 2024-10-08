@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\IIS DemoSites</_PublishTargetUrl>
+    <History>True|2024-10-05T07:43:24.6986409Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <EFMigrations Include="MVCApp.DBContext.ApplicationDbContext">
+      <Value>Server=CK\SQLEXPRESS%3bDatabase=TestDB%3bTrustServerCertificate=True%3btrusted_connection=true%3b</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>
